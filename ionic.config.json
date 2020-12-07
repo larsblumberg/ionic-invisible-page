@@ -1,0 +1,7 @@
+{
+  "name": "ionic-invisible-page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
